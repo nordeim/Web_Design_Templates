@@ -1,8 +1,7 @@
-```markdown
-
 Here's a complete, high-level example of how you can set up a Node.js app using Next.js with TypeScript and Tailwind CSS to match a UI similar to the screenshot you mentioned. Below are the steps and sample code snippets to get you started without revealing internal reasoning details.
 
 ---
+```markdown
 
 ### 1. Create the Next.js Project
 
