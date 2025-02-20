@@ -1,3 +1,5 @@
+```markdown
+
 <contemplator>
 Okay, I have an image of a UI. It looks like an iCloud dashboard with widgets for Profile, Mail, Drive, and Notes. I need to create a Node.js app, likely using Next.js, that replicates this UI. I should use Tailwind CSS for styling.
 
@@ -92,3 +94,5 @@ Okay, I think I have a good starting plan. I'll start by setting up the Next.js 
 - Plan is to start with basic layout and styling, then add content and refine.
 - Address the "..." menu later with a dropdown menu.
 </final_answer>
+
+```
