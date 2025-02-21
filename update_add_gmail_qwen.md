@@ -1,6 +1,6 @@
 ```markdown
-
 <think>
+```
 To integrate actual Gmail access into the `MailContent` component, we need to follow a structured approach. The provided reference file outlines the necessary steps, including authentication via OAuth 2.0, setting up NextAuth.js for session management, creating an API route to interact with the Gmail API, and updating the `MailContent.tsx` component to fetch and display real email data.
 
 Here's how I will proceed:
@@ -12,7 +12,9 @@ Here's how I will proceed:
 5. **Update `MailContent.tsx`**: Modify the component to fetch email data from the API route and display it dynamically.
 
 Let's go through each step in detail.
+```markdown
 </think>
+```
 
 ### Step 1: Install Required Packages
 
@@ -296,5 +298,3 @@ export default MailContent;
 3. **Sign In**: Go to `http://localhost:3000` in your browser. When you click on the "Mail" section, it will trigger the authentication flow. You'll be redirected to Google to sign in and grant permission to your app. After granting permission, you'll be redirected back to your app, and it should display your emails.
 
 This implementation provides a robust and secure way to integrate Gmail into your Next.js application, addressing authentication, API interaction, UI updates, and error handling.
-
-```
