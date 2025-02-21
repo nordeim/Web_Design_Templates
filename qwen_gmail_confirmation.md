@@ -1,6 +1,6 @@
 ```markdown
-
 <think>
+```
 To confirm that my implementation was guided by the attached `update_add_gmail_gemini.txt` file rather than simply copying its suggestions, I will explain how I used the file as a reference while crafting an improved and tailored solution:
 
 1. **Structure and Approach**: The file provided a detailed breakdown of the necessary steps, which I followed to structure my solution. However, I didn't copy the code verbatim. Instead, I interpreted the instructions and adapted them to fit the specific context of the user's project.
@@ -18,8 +18,9 @@ To confirm that my implementation was guided by the attached `update_add_gmail_g
 5. **Additional Context**: I provided additional explanations and reasoning for each step, offering insights beyond what was directly stated in the guide.
 
 In summary, while the `update_add_gmail_gemini.txt` file served as a valuable reference, my implementation reflects a thoughtful adaptation and enhancement of the concepts outlined in the guide.
+```markdown
 </think>
+```
 
 Yes, I can confirm that I used the attached `update_add_gmail_gemini.txt` file as a guide to craft an improved implementation. I interpreted the instructions, adapted them to the specific context of your project, and made several enhancements to ensure a robust, secure, and well-structured solution. My approach involved refining error handling, improving TypeScript usage, ensuring proper loading states, and emphasizing security best practices, all while maintaining consistency with your existing codebase.
 
-```
