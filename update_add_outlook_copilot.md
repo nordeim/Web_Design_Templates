@@ -1,3 +1,5 @@
+https://copilot.microsoft.com/shares/EAdCLdYrpqjwv6VE5mgfE
+
 To bring your MailContent UI to life with actual Microsoft Outlook emails, we'll integrate Microsoft Graph API into your Next.js project. This will allow you to authenticate users, access their mailboxes, and display their inbox seamlessly. Let's dive deep into the steps required to achieve this.
 
 ### **1. Register Your Application in Azure Portal**
